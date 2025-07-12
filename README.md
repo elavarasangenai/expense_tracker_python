@@ -11,13 +11,11 @@ Track your expense by categorywise you spend.
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
 - [Acknowledgements](#acknowledgements)
@@ -87,12 +85,12 @@ set BACKEND_URL=http://localhost:5000  # On Windows
 ---
 
 ## License
-{e.g. MIT, Apache-2.0}
+MIT, Apache-2.0
 
 ---
 
 ## Author
-{Elavarasan}
+Elavarasan
 
 ---
 
